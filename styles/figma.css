@@ -1,0 +1,51 @@
+ /* font shared style  */
+ .merriweather-fonts {
+    font-family: "Merriweather", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+ }
+ 
+ 
+ 
+ 
+ .new-banner{
+    background-image: linear-gradient(#07021179 , #07021160) ,url("../images/Banner\ Image.png") ;
+    height: 600px;
+    background-size:contain;
+    width: 1320px;
+    margin: 0 auto;
+    text-align: center;
+    
+   }
+
+
+.intro-text{
+
+  
+}
+
+.intro-texts{
+
+  align-items: center;
+   padding: 117px 344px;
+  
+}
+
+ .banner-subtitle{
+    font-size: 72px;
+    color: white;
+ }
+
+ .banner-title{
+    font-size:32px ;
+    
+    color: white;
+    padding-top: 12px;
+
+ }
+
+
+ 
