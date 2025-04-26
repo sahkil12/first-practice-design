@@ -8,6 +8,12 @@
       "wdth" 100;
  }
  
+ .inter-font {
+   font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: <weight>;
+   font-style: normal;
+ }
  
  
  
@@ -51,3 +57,33 @@
  }
 
 
+ /* 2nd part discount */
+
+ .discount-offer{
+   text-align:center ;
+   margin-bottom: 120px;
+ }
+ .discount{
+   color: red;
+   
+   font-size: 88px;
+   font-weight: bold;
+ }
+ .dis-title{
+   font-size: 24px;
+   font-weight: 500;
+   margin-top: 28px;
+   margin-bottom: 10px;
+   color:red;
+ }
+ 
+ .dic-subtitle{
+   font-weight: bold;
+   font-size: 48px;
+   margin-bottom: 48px;
+   
+ }
+.happy-new img{
+   height: 500px;
+   width: 805px;
+}
