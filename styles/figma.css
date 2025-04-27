@@ -134,3 +134,37 @@ line-height: 85px;
   padding-left: 155px;
  
 }
+
+/* 4th layer design  section */
+
+.party-content{
+  height: 485px;
+  width: 1320px;
+  text-align: center;
+  margin: 0% auto;
+  background-image: linear-gradient( #ff00001b, #ff000011, #ff000000,#ff000011 );
+}
+.party-content{
+  padding-top: 100px;
+  padding-bottom: 110px;
+}
+
+.same{
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.color{
+  color: red;
+}
+
+.btn-dis{
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 16px 32px ;
+  border-radius: 8px ;
+  border: none;
+  margin-top: 45px;
+}
